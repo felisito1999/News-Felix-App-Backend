@@ -1,0 +1,9 @@
+C:\Users\felej\source\repos\NewsApp\NewsApp.Library\bin\Debug\NewsApp.Library.dll
+C:\Users\felej\source\repos\NewsApp\NewsApp.Library\bin\Debug\NewsApp.Library.pdb
+C:\Users\felej\source\repos\NewsApp\NewsApp.Library\bin\Debug\Dapper.dll
+C:\Users\felej\source\repos\NewsApp\NewsApp.Library\bin\Debug\Dapper.xml
+C:\Users\felej\source\repos\NewsApp\NewsApp.Library\obj\Debug\NewsApp.Library.csprojAssemblyReference.cache
+C:\Users\felej\source\repos\NewsApp\NewsApp.Library\obj\Debug\NewsApp.Library.csproj.CoreCompileInputs.cache
+C:\Users\felej\source\repos\NewsApp\NewsApp.Library\obj\Debug\NewsApp.Library.csproj.CopyComplete
+C:\Users\felej\source\repos\NewsApp\NewsApp.Library\obj\Debug\NewsApp.Library.dll
+C:\Users\felej\source\repos\NewsApp\NewsApp.Library\obj\Debug\NewsApp.Library.pdb
